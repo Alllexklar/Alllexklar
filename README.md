@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-Currently building a e-learning plattform for social sciences
+Currently building an e-learning plattform for social sciences
 
